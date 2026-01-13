@@ -8,4 +8,4 @@ Automates manual consolidation of incoming client files, removing the manual ste
 3. Outputting a consolidated dataset in a defined, ingestion-ready layout.
 
 # Usage
-Open the VBA editor in Excel. Add and run the script and enter the folder path containing the raw files. 
+Open the VBA editor in Excel. Add and run the [script](https://github.com/Leighton01/combine-files/blob/main/Excel_File_Combiner.bas) and enter the folder path containing the raw files. 
